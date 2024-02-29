@@ -12,13 +12,13 @@ function Home() {
                     to make a positive impact while fostering personal and professional growth.</p>
                 <br></br>
                 <a href="https://www.linkedin.com/in/sampangi-vijayaraju-37a57b227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
-                    <Linkedin size={35}  color = "black" className="rounded mx-4" />
+                    <Linkedin size={34}  color = "black" className="rounded mx-4" />
                 </a>
                 <a href="https://www.instagram.com/vijayrajusampangi?igsh=MTVwaDd6cWliZjhiZg==" target="_blank" rel="noopener noreferrer">
-                    <Instagram size={35} color="black" className="rounded mx-4" />
+                    <Instagram size={34} color="black" className="rounded mx-4" />
                 </a>
                 <a href="https://github.com/sampangivijayaraju" target="_blank" rel="noopener noreferrer">
-                    <Github size={35} color = "black" className="rounded mx-4" />
+                    <Github size={34} color = "black" className="rounded mx-4" />
                 </a>
                 
             </center>
